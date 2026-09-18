@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-\# StudyBuddy Local AI 📚
-
 
 
 A simple on-device AI study assistant powered by the \*\*Tether QVAC JavaScript SDK\*\*.
