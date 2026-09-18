@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# StudyBuddy Local AI 📚
 
 
@@ -96,3 +97,7 @@ Display Explanation
 
 Unload Model
 
+=======
+# studubuddy-ai
+an ai to study offline
+>>>>>>> 5c7e4c8c7464f7447c359a04c886175cc2930614
